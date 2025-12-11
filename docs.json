@@ -26,7 +26,8 @@
             "pages": [
               "essentials/settings",
               "essentials/navigation",
-              "wallet/android"
+              "wallet/android",
+              "wallet/iphone"
             ]
           },
           {
