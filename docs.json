@@ -24,7 +24,8 @@
           {
             "group": "Customization",
             "pages": [
-              "programa de fidelizacion/puntos",
+              "programa de fidelizacion",
+              "clientes",
               "essentials/navigation",
               "wallet/android",
               "wallet/iphone",
