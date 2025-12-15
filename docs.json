@@ -24,11 +24,10 @@
           {
             "group": "Customization",
             "pages": [
-              "essentials/settings",
+              "programa de fidelizacion/puntos",
               "essentials/navigation",
               "wallet/android",
               "wallet/iphone",
-              "programa de fidelización",
             ]
           },
           {
