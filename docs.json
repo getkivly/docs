@@ -26,7 +26,7 @@
             "pages": [
               "programa-de-fidelizacion/programa",
               "clientes/clientes",
-              "campañas/campañas",
+              "camp/camp",
               "wallet/android",
               "wallet/iphone"
             ]
