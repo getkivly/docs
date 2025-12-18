@@ -25,8 +25,8 @@
             "group": "Secciones",
             "pages": [
               "programa-de-fidelizacion/programa",
-              "clientes/clientes1",
-              "essentials/navigation",
+              "clientes/clientes",
+              "campañas/navigation",
               "wallet/android",
               "wallet/iphone"
             ]
