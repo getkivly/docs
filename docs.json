@@ -26,9 +26,10 @@
             "pages": [
               "programa-de-fidelizacion/programa",
               "clientes/clientes",
-              "camp/camp",
               "wallet/android",
-              "wallet/iphone"
+              "wallet/iphone",
+              "camp/camp",
+              "notificaciones/notificaciones"
             ]
           },
           {
