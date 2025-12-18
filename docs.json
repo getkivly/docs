@@ -24,11 +24,11 @@
           {
             "group": "Customization",
             "pages": [
-              "new-section/programa de fidelización",
+              "programa-de-fidelizacion/programa",
               "clientes/clientes1",
               "essentials/navigation",
               "wallet/android",
-              "wallet/iphone",
+              "wallet/iphone"
             ]
           },
           {
