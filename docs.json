@@ -31,9 +31,9 @@
               "camp/camp",
               "notificaciones/notificaciones",
               "push-de-proximidad/push-de-proximidad"
-            ]
-          },
-          {
+             ]
+            },
+            {
               "tab": "API reference",
               "groups": [
                 {
@@ -43,7 +43,7 @@
                   ]
             }
         ]
-      }
+      },
                 
           {
             "group": "Endpoint examples",
