@@ -29,7 +29,7 @@
               "wallet/android",
               "wallet/iphone",
               "camp/camp",
-              "notificaciones/notificaciones"
+              "notificaciones/notificaciones",
               "push-de-proximidad/push-de-proximidad"
             ]
           },
