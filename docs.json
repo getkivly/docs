@@ -33,26 +33,15 @@
               "push-de-proximidad/push-de-proximidad"
             ]
           },
-      
           {
-            "group": "AI tools",
-            "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "API reference",
-        "groups": [
+              "tab": "API reference",
+              "groups": [
           {
-            "group": "API documentation",
-            "pages": [
+             "group": "API documentation",
+             "pages": [
               "api-reference/introduction"
             ]
-          },
+            },
           {
             "group": "Endpoint examples",
             "pages": [
