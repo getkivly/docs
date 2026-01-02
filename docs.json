@@ -31,22 +31,20 @@
               "camp/camp",
               "notificaciones/notificaciones",
               "push-de-proximidad/push-de-proximidad"
-             ]
-            },
-          
-            {
-              "tab": "API reference",
-              "groups": [
-                {
-                  "group": "API documentation",
-                  "pages": [
-                    "api-reference/introduction"
-                  ]
-            }
+            ]
+          }
         ]
-      },
-                
-          {
+     },
+     {
+       "tab": "API reference",
+       "groups": [
+         {
+           "group": "API documentation",
+            "pages": [
+              "api-reference/introduction"
+           ]
+         },        
+         {
             "group": "Endpoint examples",
             "pages": [
               "api-reference/endpoint/get",
